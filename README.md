@@ -8,3 +8,6 @@ To run
 3. Navigate to http://127.0.0.1:5000/ to see it in action
 
    Enjoy unlimited recommendations tailored to your tastes!
+
+
+You can find the dataset [here](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset)
